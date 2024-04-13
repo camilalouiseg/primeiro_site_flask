@@ -1,0 +1,27 @@
+.titulo{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 35px;
+}
+
+.sub-titulo{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+.lista{
+    width: 400px;
+    margin:0 auto;
+}
+
+.quadrado{
+    display: inline-block;
+    width: 100px; /* Largura dos quadrados */
+    height: 50px; /* Altura dos quadrados */
+    background-color: rgb(152, 117, 247);
+    margin: 0 5px;
+    border-radius: 4px;
+    text-align: center;
+    line-height: 50px; /* Centraliza o texto verticalmente */
+}

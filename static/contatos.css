@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.titulo{
+    font-size: 35px;
+}
+
+.conteudo{
+    margin-top: 35px;
+    font-size: 20px;
+}
